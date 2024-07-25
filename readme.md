@@ -1,6 +1,6 @@
 # Calorie Tracker Web Application
 
-Welcome to the Calorie Tracker Web Application! This application is designed to help you track your daily caloric intake, set goals, and monitor your progress towards a healthier lifestyle.
+Calorie Tracker Web Application is designed to help you track your daily caloric intake, set goals, and monitor your progress towards a healthier lifestyle.
 
 ## Features
 
