@@ -1,30 +1,24 @@
-# Calories Tracker
+# Calorie Tracker Web Application
 
-Welcome to the Calorie Tracker Web Application! This application is designed to help you track your daily caloric intake, set goals, and monitor your progress towards a healthier lifestyle. 
+Welcome to the Calorie Tracker Web Application! This application is designed to help you track your daily caloric intake, set goals, and monitor your progress towards a healthier lifestyle.
 
+## Features
 
+- **Caloric Intake Tracking**: Log your daily food consumption and track calories.
+- **Goal Setting**: Set daily calorie goals to help manage your diet.
+- **Progress Monitoring**: Monitor your progress towards your caloric intake goals.
 
-## Usage
+## Technologies Used
 
-Install dependencies
+- **JavaScript**
+- **Webpack**
+- **Babel**
+- **HTML**
+- **CSS**
+- **BootStrap**
 
-```
-npm install
-```
+## Installation
 
-Run the dev server
-
-```
-npm run dev
-```
-
-It will start on `http://localhost:3000`
-
-To build for production
-
-```
-npm run build
-```
-
-Your production files will be in the `dist` folder.
-
+1. **Clone the Repository**:
+   ```sh
+   git clone https://github.com/ACtink/Calories-Tracker.git
